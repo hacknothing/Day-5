@@ -1,0 +1,118 @@
+code =  it opens previous code in vscode
+
+code . = for open new one
+
+
+
+html :
+
+<!DOCTYPE html>   --  to define type of docment 
+
+<head>    --   for linking , meta data and title name
+
+<meta>    --   1.viewport
+               2.
+
+favicon   
+
+title -- to define title to the webpage
+
+<body>   --    
+
+initial server port -- 5500
+
+if more ports are open it is not secure we need to close the ports
+
+
+live server installation
+
+vscode shortcuts
+
+cntrl+B  -> to close project space
+
+cntrl+shift+`  -> to open terminal
+
+cntrl+`  -> to close terminal
+
+type null > filename.extension
+
+tag * number
+
+cntrl+Z -> undo
+cntrl + y -> redo
+
+cntrl + space  --> suggestions
+
+
+Heading tags:
+    <h1>Hello</h1>
+    <h2>Hello</h2>
+    <h3>Hello</h3>
+    <h4>Hello</h4>
+    <h5>Hello</h5>
+    <h6>Hello</h6>
+
+
+-only size will decrease no change in opacity intesity boldness 
+
+<p>  --</p>   -> for paragraph
+
+
+
+input tag:
+
+type:-  text/number/email/button/password/checkbox/color
+
+    <label for="">First name</label>   --> for labeling tthe input tags 
+
+    <br>      --> for separating the line
+
+    <input type="text"  placeholder=" ">       
+
+
+placeholder  -> gives the name inside the input tag 
+
+<input type="button" value="Button">
+
+<input type="checkbox">
+
+<input type="color">
+
+
+
+
+button  -> it doesn't valide the data
+
+submit -> it submiits the data affter validation
+
+
+strong tag --> easy to readable
+ 
+<b> </b>  -> boldness
+
+<em>  </em>  -->easy to readable
+
+<i>   </i>  -> italic font
+
+
+deelete tag :-
+to delete a word
+<em>Narendra <del>mongaM</del></em>
+
+<mark>   -</mark>   -> to highlight the text
+
+
+H<sub>2</sub>O   -> mainly used for chemical formulas
+
+x<sup>2</sup>     -> for representing powers
+
+
+<address>
+        
+    </address>   -> to represent author details
+
+
+<textarea>   </textarea>
+
+
+<a>  </a> -> anchor tag used to link another page
